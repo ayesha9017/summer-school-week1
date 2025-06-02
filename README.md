@@ -8,7 +8,7 @@
 - Basic CLI commands (pwd, ls, mkdir, etc.)
 
 **Day 2**  
-- Creating and managing files with touch, rm, chmod  
+- 
 - Git basics: init, add, commit, push  
 - Understanding branches and pull requests
 # summer-school-week1
